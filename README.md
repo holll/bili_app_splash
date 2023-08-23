@@ -4,8 +4,8 @@
 
 ### 壁纸娘同步任务 状态：  
 
-[![BIZHINIANG](https://github.com/zjkwdy/bili_app_splash/actions/workflows/BIZHINIANG.yml/badge.svg)](https://github.com/zjkwdy/bili_app_splash/actions/workflows/BIZHINIANG.yml)  
+[![BIZHINIANG](https://github.com/holll/bili_app_splash/actions/workflows/BIZHINIANG.yml/badge.svg)](https://github.com/holll/bili_app_splash/actions/workflows/BIZHINIANG.yml)  
 
 ### 开屏图下载任务 状态：  
 
-[![开屏图下载](https://github.com/zjkwdy/bili_app_splash/actions/workflows/bilibili_splash_download.yml/badge.svg)](https://github.com/zjkwdy/bili_app_splash/actions/workflows/bilibili_splash_download.yml)
+[![开屏图下载](https://github.com/holll/bili_app_splash/actions/workflows/bilibili_splash_download.yml/badge.svg)](https://github.com/holll/bili_app_splash/actions/workflows/bilibili_splash_download.yml)
